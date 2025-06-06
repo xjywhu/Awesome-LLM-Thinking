@@ -51,5 +51,11 @@
 .* Arxiv 2025.5.23.
 
 
+## Multimodal
+
+1. [**Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models**](https://arxiv.org/abs/2505.16854) *Jiaqi Wang, Kevin Qinghong Lin, James Cheng, Mike Zheng Shou
+.* Arxiv 2025.5.22. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/kokolerk/TON)](https://github.com/kokolerk/TON)
+
+
 
 
