@@ -48,14 +48,23 @@
 6. [**ConCISE: Confidence-guided Compression in Step-by-step Efficient Reasoning.**](https://arxiv.org/abs/2505.17813) *Ziqing Qiao, Yongheng Deng, Jiali Zeng, Dong Wang, Lai Wei, Fandong Meng, Jie Zhou, Ju Ren, Yaoxue Zhang
 .* Arxiv 2025.5.8.
 
-7. [**Don’t Overthink it. Preferring Shorter Thinking Chains for Improved LLM Reasoning.**](https://arxiv.org/abs/2505.17813) *Michael Hassid, Gabriel Synnaeve, Yossi Adi, Roy Schwartz
+7. [**AdaptThink: Reasoning Models Can Learn When to Think.**](https://arxiv.org/abs/2505.13417) *Jiajie Zhang, Nianyi Lin, Lei Hou, Ling Feng, Juanzi Li
+.* Arxiv 2025.5.19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/THU-KEG/AdaptThink)](https://github.com/THU-KEG/AdaptThink)
+   
+
+
+8. [**Don’t Overthink it. Preferring Shorter Thinking Chains for Improved LLM Reasoning.**](https://arxiv.org/abs/2505.17813) *Michael Hassid, Gabriel Synnaeve, Yossi Adi, Roy Schwartz
 .* Arxiv 2025.5.23.
 
-8. [**Mitigating Overthinking in Large Reasoning Models via Manifold Steering.**](https://arxiv.org/abs/2505.22411) *Yao Huang, Huanran Chen, Shouwei Ruan, Yichi Zhang, Xingxing Wei, Yinpeng Dong
+9. [**Mitigating Overthinking in Large Reasoning Models via Manifold Steering.**](https://arxiv.org/abs/2505.22411) *Yao Huang, Huanran Chen, Shouwei Ruan, Yichi Zhang, Xingxing Wei, Yinpeng Dong
 .* Arxiv 2025.5.28. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Aries-iai/Manifold_Steering)](https://github.com/Aries-iai/Manifold_Steering)
 
-9. [**Acting Less is Reasoning More!Teaching Model to Act Efficiently.**](https://arxiv.org/abs/2504.14870) *Hongru Wang, Cheng Qian, Wanjun Zhong, Xiusi Chen, Jiahao Qiu, Shijue Huang, Bowen Jin, Mengdi Wang, Kam-Fai Wong, Heng Ji
+10. [**Acting Less is Reasoning More!Teaching Model to Act Efficiently.**](https://arxiv.org/abs/2504.14870) *Hongru Wang, Cheng Qian, Wanjun Zhong, Xiusi Chen, Jiahao Qiu, Shijue Huang, Bowen Jin, Mengdi Wang, Kam-Fai Wong, Heng Ji
 .* Arxiv 2025.5.31.
+
+
+
+
 
 
 
