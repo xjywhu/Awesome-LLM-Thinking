@@ -54,7 +54,7 @@
 ## Multimodal
 
 1. [**VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning**](https://arxiv.org/abs/2504.08837) *Haozhe Wang, Chao Qu, Zuming Huang, Wei Chu, Fangzhen Lin, Wenhu Chen
-.* Arxiv 2025.4.10. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/TIGER-AI-Lab/VL-Rethinker/)](https://github.com/TIGER-AI-Lab/VL-Rethinker/)
+.* Arxiv 2025.4.10. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/TIGER-AI-Lab/VL-Rethinker)](https://github.com/TIGER-AI-Lab/VL-Rethinker/)
 
 2. [**Fast-Slow Thinking for Large Vision-Language Model Reasoning**](https://arxiv.org/abs/2504.18458) *Wenyi Xiao, Leilei Gan, Weilong Dai, Wanggui He, Ziwei Huang, Haoyuan Li, Fangxun Shu, Zhelun Yu, Peng Zhang, Hao Jiang, Fei Wu
 .* Arxiv 2025.4.25. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Mr-Loevan/FAST)](https://github.com/Mr-Loevan/FAST)
@@ -63,6 +63,9 @@
 3. [**Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL**](https://arxiv.org/abs/2505.15436) *Xintong Zhang, Zhi Gao, Bofei Zhang, Pengxiang Li, Xiaowen Zhang, Yang Liu, Tao Yuan, Yuwei Wu, Yunde Jia, Song-Chun Zhu, Qing Li
 .* Arxiv 2025.5.21. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/xtong-zhang/Chain-of-Focus)](https://github.com/xtong-zhang/Chain-of-Focus)
 
-4. [**Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models**](https://arxiv.org/abs/2505.16854) *Jiaqi Wang, Kevin Qinghong Lin, James Cheng, Mike Zheng Shou
+
+4. [**Prolonged Reasoning Is Not All You Need: Certainty-Based Adaptive Routing for Efficient LLM/MLLM Reasoning**](https://arxiv.org/abs/2505.15154) *Jinghui Lu, Haiyang Yu, Siliang Xu, Shiwei Ran, Guozhi Tang, Siqi Wang, Bin Shan, Teng Fu, Hao Feng, Jingqun Tang, Han Wang, Can Huang.* Arxiv 2025.5.21. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/xtong-zhang/Chain-of-Focus)](https://github.com/xtong-zhang/Chain-of-Focus)
+
+5. [**Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models**](https://arxiv.org/abs/2505.16854) *Jiaqi Wang, Kevin Qinghong Lin, James Cheng, Mike Zheng Shou
 .* Arxiv 2025.5.22. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/kokolerk/TON)](https://github.com/kokolerk/TON)
 
