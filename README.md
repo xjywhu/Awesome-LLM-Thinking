@@ -39,16 +39,30 @@
 .* Arxiv 2025.02.17. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/hemingkx/TokenSkip)](https://github.com/hemingkx/TokenSkip)
 
 
-4. [**Dynamic Early Exit in Reasoning Models**](https://arxiv.org/abs/2504.15895) *Chenxu Yang, Qingyi Si, Yongjie Duan, Zheliang Zhu, Chenyu Zhu, Qiaowei Li, Zheng Lin, Li Cao, Weiping Wang
+4. [**THINKPRUNE: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning.**](https://arxiv.org/abs/2504.01296) *Bairu Hou, Yang Zhang, Jiabao Ji, Yujian Liu, Kaizhi Qian, Jacob Andreas, Shiyu Chang
+.* Arxiv 2025.04.2. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/UCSB-NLP-Chang/ThinkPrune)](https://github.com/UCSB-NLP-Chang/ThinkPrune)
+
+5. [**Dynamic Early Exit in Reasoning Models**](https://arxiv.org/abs/2504.15895) *Chenxu Yang, Qingyi Si, Yongjie Duan, Zheliang Zhu, Chenyu Zhu, Qiaowei Li, Zheng Lin, Li Cao, Weiping Wang
 .* Arxiv 2025.04.22. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/iie-ycx/DEER)](https://github.com/iie-ycx/DEER)
 
-
-
-5. [**ConCISE: Confidence-guided Compression in Step-by-step Efficient Reasoning.**](https://arxiv.org/abs/2505.17813) *Ziqing Qiao, Yongheng Deng, Jiali Zeng, Dong Wang, Lai Wei, Fandong Meng, Jie Zhou, Ju Ren, Yaoxue Zhang
+6. [**ConCISE: Confidence-guided Compression in Step-by-step Efficient Reasoning.**](https://arxiv.org/abs/2505.17813) *Ziqing Qiao, Yongheng Deng, Jiali Zeng, Dong Wang, Lai Wei, Fandong Meng, Jie Zhou, Ju Ren, Yaoxue Zhang
 .* Arxiv 2025.5.8.
 
-6. [**Don’t Overthink it. Preferring Shorter Thinking Chains for Improved LLM Reasoning.**](https://arxiv.org/abs/2505.17813) *Michael Hassid, Gabriel Synnaeve, Yossi Adi, Roy Schwartz
+7. [**Don’t Overthink it. Preferring Shorter Thinking Chains for Improved LLM Reasoning.**](https://arxiv.org/abs/2505.17813) *Michael Hassid, Gabriel Synnaeve, Yossi Adi, Roy Schwartz
 .* Arxiv 2025.5.23.
+
+8. [**Mitigating Overthinking in Large Reasoning Models via Manifold Steering.**](https://arxiv.org/abs/2505.22411) *Yao Huang, Huanran Chen, Shouwei Ruan, Yichi Zhang, Xingxing Wei, Yinpeng Dong
+.* Arxiv 2025.5.28. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Aries-iai/Manifold_Steering)](https://github.com/Aries-iai/Manifold_Steering)
+
+9. [**Acting Less is Reasoning More!Teaching Model to Act Efficiently.**](https://arxiv.org/abs/2504.14870) *Hongru Wang, Cheng Qian, Wanjun Zhong, Xiusi Chen, Jiahao Qiu, Shijue Huang, Bowen Jin, Mengdi Wang, Kam-Fai Wong, Heng Ji
+.* Arxiv 2025.5.31.
+
+
+
+
+## Safety
+1. [**Effectively Controlling Reasoning Models through Thinking Intervention.**](https://arxiv.org/abs/2503.24370) *Tong Wu, Chong Xiang, Jiachen T. Wang, G. Edward Suh, Prateek Mittal
+.* Arxiv 2025.5.30.
 
 
 ## Multimodal
@@ -68,4 +82,9 @@
 
 5. [**Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models**](https://arxiv.org/abs/2505.16854) *Jiaqi Wang, Kevin Qinghong Lin, James Cheng, Mike Zheng Shou
 .* Arxiv 2025.5.22. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/kokolerk/TON)](https://github.com/kokolerk/TON)
+
+
+6. [**VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use**](https://arxiv.org/abs/2505.19255) *Mingyuan Wu, Jingcheng Yang, Jize Jiang, Meitang Li, Kaizhuo Yan, Hanchao Yu, Minjia Zhang, Chengxiang Zhai, Klara Nahrstedt
+.* Arxiv 2025.5.25. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/kokolerk/TON)](https://github.com/kokolerk/TON)
+
 
