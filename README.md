@@ -45,7 +45,7 @@
 5. [**Dynamic Early Exit in Reasoning Models**](https://arxiv.org/abs/2504.15895) *Chenxu Yang, Qingyi Si, Yongjie Duan, Zheliang Zhu, Chenyu Zhu, Qiaowei Li, Zheng Lin, Li Cao, Weiping Wang
 .* Arxiv 2025.04.22. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/iie-ycx/DEER)](https://github.com/iie-ycx/DEER)
 
-6. [**ConCISE: Confidence-guided Compression in Step-by-step Efficient Reasoning.**](https://arxiv.org/abs/2505.17813) *Ziqing Qiao, Yongheng Deng, Jiali Zeng, Dong Wang, Lai Wei, Fandong Meng, Jie Zhou, Ju Ren, Yaoxue Zhang
+6. [**ConCISE: Confidence-guided Compression in Step-by-step Efficient Reasoning.**](https://arxiv.org/abs/2505.04881) *Ziqing Qiao, Yongheng Deng, Jiali Zeng, Dong Wang, Lai Wei, Fandong Meng, Jie Zhou, Ju Ren, Yaoxue Zhang
 .* Arxiv 2025.5.8.
 
 7. [**AdaptThink: Reasoning Models Can Learn When to Think.**](https://arxiv.org/abs/2505.13417) *Jiajie Zhang, Nianyi Lin, Lei Hou, Ling Feng, Juanzi Li
