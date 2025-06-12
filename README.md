@@ -50,7 +50,6 @@
 
 7. [**AdaptThink: Reasoning Models Can Learn When to Think.**](https://arxiv.org/abs/2505.13417) *Jiajie Zhang, Nianyi Lin, Lei Hou, Ling Feng, Juanzi Li
 .* Arxiv 2025.5.19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/THU-KEG/AdaptThink)](https://github.com/THU-KEG/AdaptThink)
-   
 
 
 8. [**Don’t Overthink it. Preferring Shorter Thinking Chains for Improved LLM Reasoning.**](https://arxiv.org/abs/2505.17813) *Michael Hassid, Gabriel Synnaeve, Yossi Adi, Roy Schwartz
@@ -61,6 +60,13 @@
 
 10. [**Acting Less is Reasoning More!Teaching Model to Act Efficiently.**](https://arxiv.org/abs/2504.14870) *Hongru Wang, Cheng Qian, Wanjun Zhong, Xiusi Chen, Jiahao Qiu, Shijue Huang, Bowen Jin, Mengdi Wang, Kam-Fai Wong, Heng Ji
 .* Arxiv 2025.5.31.
+
+11. [**Wait, We Don’t Need to “Wait”! Removing Thinking Tokens Improves Reasoning Efficiency.**](https://arxiv.org/abs/2504.14870) *Chenlong Wang, Yuanning Feng, Dongping Chen, Zhaoyang Chu, Ranjay Krishna, Tianyi Zhou
+.* Arxiv 2025.6.10.
+
+
+
+
 
 
 ## Thinking Method
@@ -106,5 +112,7 @@
 
 7. [**Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**](https://arxiv.org/abs/2506.09965) *Junfei Wu, Jian Guan, Kaituo Feng, Qiang Liu, Shu Wu, Liang Wang, Wei Wu, Tieniu Tan.* Arxiv 2025.6.11. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/AntResearchNLP/ViLaSR)](https://github.com/AntResearchNLP/ViLaSR)
 
+## Others
+1. [**Query-Level Uncertainty in Large Language Models**](https://arxiv.org/abs/2506.09669) *Lihu Chen, Gaël Varoquaux.* Arxiv 2025.6.11. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/tigerchen52/query_level_uncertainty)](https://github.com/tigerchen52/query_level_uncertainty)
 
 
