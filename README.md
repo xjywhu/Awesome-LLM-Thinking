@@ -63,6 +63,13 @@
 .* Arxiv 2025.5.31.
 
 
+## Thinking Method
+
+1. [**Interleaved Reasoning for Large Language Models via Reinforcement Learning.**](https://arxiv.org/abs/2505.19640) *Roy Xie, David Qiu, Deepak Gopinath, Dong Lin, Yanchao Sun, Chong Wang, Saloni Potdar, Bhuwan Dhingra
+.* Arxiv 2025.5.26.
+
+   
+
 
 
 
@@ -95,5 +102,9 @@
 
 6. [**VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use**](https://arxiv.org/abs/2505.19255) *Mingyuan Wu, Jingcheng Yang, Jize Jiang, Meitang Li, Kaizhuo Yan, Hanchao Yu, Minjia Zhang, Chengxiang Zhai, Klara Nahrstedt
 .* Arxiv 2025.5.25. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/kokolerk/TON)](https://github.com/kokolerk/TON)
+
+
+7. [**Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**](https://arxiv.org/abs/2506.09965) *Junfei Wu, Jian Guan, Kaituo Feng, Qiang Liu, Shu Wu, Liang Wang, Wei Wu, Tieniu Tan.* Arxiv 2025.6.11. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/AntResearchNLP/ViLaSR)](https://github.com/AntResearchNLP/ViLaSR)
+
 
 
