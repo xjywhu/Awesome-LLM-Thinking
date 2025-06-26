@@ -98,26 +98,29 @@
 .* Arxiv 2025.4.25. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Mr-Loevan/FAST)](https://github.com/Mr-Loevan/FAST)
 
 
-3. [**Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL**](https://arxiv.org/abs/2505.15436) *Xintong Zhang, Zhi Gao, Bofei Zhang, Pengxiang Li, Xiaowen Zhang, Yang Liu, Tao Yuan, Yuwei Wu, Yunde Jia, Song-Chun Zhu, Qing Li
+3. [**Visual Agentic Reinforcement Fine-Tuning**](https://arxiv.org/abs/2505.14246) *Ziyu Liu, Yuhang Zang, Yushan Zou, Zijian Liang, Xiaoyi Dong, Yuhang Cao, Haodong Duan, Dahua Lin, Jiaqi Wang.* Arxiv 2025.5.20. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Liuziyu77/Visual-RFT)](https://github.com/Liuziyu77/Visual-RFT)
+
+
+4. [**Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL**](https://arxiv.org/abs/2505.15436) *Xintong Zhang, Zhi Gao, Bofei Zhang, Pengxiang Li, Xiaowen Zhang, Yang Liu, Tao Yuan, Yuwei Wu, Yunde Jia, Song-Chun Zhu, Qing Li
 .* Arxiv 2025.5.21. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/xtong-zhang/Chain-of-Focus)](https://github.com/xtong-zhang/Chain-of-Focus)
 
 
-4. [**Prolonged Reasoning Is Not All You Need: Certainty-Based Adaptive Routing for Efficient LLM/MLLM Reasoning**](https://arxiv.org/abs/2505.15154) *Jinghui Lu, Haiyang Yu, Siliang Xu, Shiwei Ran, Guozhi Tang, Siqi Wang, Bin Shan, Teng Fu, Hao Feng, Jingqun Tang, Han Wang, Can Huang.* Arxiv 2025.5.21. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/xtong-zhang/Chain-of-Focus)](https://github.com/xtong-zhang/Chain-of-Focus)
+5. [**Prolonged Reasoning Is Not All You Need: Certainty-Based Adaptive Routing for Efficient LLM/MLLM Reasoning**](https://arxiv.org/abs/2505.15154) *Jinghui Lu, Haiyang Yu, Siliang Xu, Shiwei Ran, Guozhi Tang, Siqi Wang, Bin Shan, Teng Fu, Hao Feng, Jingqun Tang, Han Wang, Can Huang.* Arxiv 2025.5.21. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/xtong-zhang/Chain-of-Focus)](https://github.com/xtong-zhang/Chain-of-Focus)
 
-5. [**GRIT: Teaching MLLMs to Think with Images**](https://arxiv.org/abs/2505.15879) *Yue Fan, Xuehai He, Diji Yang, Kaizhi Zheng, Ching-Chen Kuo, Yuting Zheng, Sravana Jyothi Narayanaraju, Xinze Guan, Xin Eric Wang.* Arxiv 2025.5.21. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/eric-ai-lab/GRIT)](https://github.com/eric-ai-lab/GRIT)
+6. [**GRIT: Teaching MLLMs to Think with Images**](https://arxiv.org/abs/2505.15879) *Yue Fan, Xuehai He, Diji Yang, Kaizhi Zheng, Ching-Chen Kuo, Yuting Zheng, Sravana Jyothi Narayanaraju, Xinze Guan, Xin Eric Wang.* Arxiv 2025.5.21. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/eric-ai-lab/GRIT)](https://github.com/eric-ai-lab/GRIT)
 
-6. [**Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models**](https://arxiv.org/abs/2505.16854) *Jiaqi Wang, Kevin Qinghong Lin, James Cheng, Mike Zheng Shou
+7. [**Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models**](https://arxiv.org/abs/2505.16854) *Jiaqi Wang, Kevin Qinghong Lin, James Cheng, Mike Zheng Shou
 .* Arxiv 2025.5.22. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/kokolerk/TON)](https://github.com/kokolerk/TON)
 
 
-7. [**VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use**](https://arxiv.org/abs/2505.19255) *Mingyuan Wu, Jingcheng Yang, Jize Jiang, Meitang Li, Kaizhuo Yan, Hanchao Yu, Minjia Zhang, Chengxiang Zhai, Klara Nahrstedt
+8. [**VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use**](https://arxiv.org/abs/2505.19255) *Mingyuan Wu, Jingcheng Yang, Jize Jiang, Meitang Li, Kaizhuo Yan, Hanchao Yu, Minjia Zhang, Chengxiang Zhai, Klara Nahrstedt
 .* Arxiv 2025.5.25. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/kokolerk/TON)](https://github.com/kokolerk/TON)
 
 
-8. [**Satori-r1: Incentivizing multimodal reasoning with spatial grounding and verifiable rewards**](https://arxiv.org/abs/2505.19094) *Chuming Shen, Wei Wei, Xiaoye Qu, Yu Cheng
+9. [**Satori-r1: Incentivizing multimodal reasoning with spatial grounding and verifiable rewards**](https://arxiv.org/abs/2505.19094) *Chuming Shen, Wei Wei, Xiaoye Qu, Yu Cheng
 .* Arxiv 2025.5.25. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/justairr/SATORI-R1)](https://github.com/justairr/SATORI-R1)
 
-9. [**Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**](https://arxiv.org/abs/2506.09965) *Junfei Wu, Jian Guan, Kaituo Feng, Qiang Liu, Shu Wu, Liang Wang, Wei Wu, Tieniu Tan.* Arxiv 2025.6.11. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/AntResearchNLP/ViLaSR)](https://github.com/AntResearchNLP/ViLaSR)
+10. [**Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**](https://arxiv.org/abs/2506.09965) *Junfei Wu, Jian Guan, Kaituo Feng, Qiang Liu, Shu Wu, Liang Wang, Wei Wu, Tieniu Tan.* Arxiv 2025.6.11. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/AntResearchNLP/ViLaSR)](https://github.com/AntResearchNLP/ViLaSR)
 
 ## Others
 1. [**Query-Level Uncertainty in Large Language Models**](https://arxiv.org/abs/2506.09669) *Lihu Chen, Gaël Varoquaux.* Arxiv 2025.6.11. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/tigerchen52/query_level_uncertainty)](https://github.com/tigerchen52/query_level_uncertainty)
