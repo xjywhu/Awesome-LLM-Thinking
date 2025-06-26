@@ -63,7 +63,7 @@
 11. [**Acting Less is Reasoning More!Teaching Model to Act Efficiently.**](https://arxiv.org/abs/2504.14870) *Hongru Wang, Cheng Qian, Wanjun Zhong, Xiusi Chen, Jiahao Qiu, Shijue Huang, Bowen Jin, Mengdi Wang, Kam-Fai Wong, Heng Ji
 .* Arxiv 2025.5.31.
 
-12. [**Wait, We Don’t Need to “Wait”! Removing Thinking Tokens Improves Reasoning Efficiency.**](https://arxiv.org/abs/2504.14870) *Chenlong Wang, Yuanning Feng, Dongping Chen, Zhaoyang Chu, Ranjay Krishna, Tianyi Zhou
+12. [**Wait, We Don’t Need to “Wait”! Removing Thinking Tokens Improves Reasoning Efficiency.**](https://arxiv.org/abs/2506.08343) *Chenlong Wang, Yuanning Feng, Dongping Chen, Zhaoyang Chu, Ranjay Krishna, Tianyi Zhou
 .* Arxiv 2025.6.10.
 
 
